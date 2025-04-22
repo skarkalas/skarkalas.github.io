@@ -1,0 +1,88 @@
+baseURL = "https://skarkalas.github.io/"
+languageCode = "en-us"
+title = "Sokratis Karkalas"
+theme = "PaperMod"
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  author = "Sokratis Karkalas"
+  description = "Personal site of Sokratis Karkalas"
+  defaultTheme = "dark"
+  ShowShareButtons = false
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowWordCount = true
+  disableScrollToTop = false
+  hideFooter = false
+  hideMenu = false
+
+  [params.profileMode]
+    enabled = true
+    title = "Hi! I'm Sokratis - a developer, educator, and tech enthusiast."
+    subtitle = "This site showcases my projects, writings, and ideas."
+    imageUrl = "img/robot_warrior_classroom.png"  # Make sure this file exists in static/img/
+    imageWidth = 400
+    imageHeight = 400
+    imageTitle = "AI Warrior"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/skarkalas"
+
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://www.facebook.com/skarkalas"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/sokratis-karkalas-86a99818"
+
+  [[params.socialIcons]]
+    name = "orcid"
+    url = "https://orcid.org/0009-0002-6008-6339"
+
+  [[params.socialIcons]]
+    name = "scholar"
+    url = "https://scholar.google.com/citations?user=uiTF_e0AAAAJ"
+  
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 40
+
+
+# Enable raw HTML in Markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Suppress the warning about raw HTML
+ignoreLogs = ["warning-goldmark-raw-html"]
