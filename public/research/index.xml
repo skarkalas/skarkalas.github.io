@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Research on Sokratis Karkalas</title>
-    <link>http://localhost:1313/research/</link>
+    <link>https://skarkalas.github.io/research/</link>
     <description>Recent content in Research on Sokratis Karkalas</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://skarkalas.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education and AI</title>
-      <link>http://localhost:1313/research/education-and-ai/</link>
+      <link>https://skarkalas.github.io/research/education-and-ai/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/education-and-ai/</guid>
+      <guid>https://skarkalas.github.io/research/education-and-ai/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/img/education_and_ai.jpg&#34; alt=&#34;Education and AI&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
+  &lt;img src=&#34;../img/education_and_ai.jpg&#34; alt=&#34;Education and AI&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
   &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
     &lt;a href=&#34;https://www.vecteezy.com/free-photos/robot&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Robot Stock photos by Vecteezy&lt;/a&gt;
   &lt;/p&gt;
