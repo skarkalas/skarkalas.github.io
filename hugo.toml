@@ -28,6 +28,7 @@ buildExpired = false
   disableScrollToTop = false
   hideFooter = false
   hideMenu = false
+  enableSRI = false
 
   [params.profileMode]
     enabled = true
