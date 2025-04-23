@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on Sokratis Karkalas</title><link>https://skarkalas.github.io/</link><description>Recent content in Welcome on Sokratis Karkalas</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skarkalas.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://skarkalas.github.io/bio/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/bio/</guid><description>&lt;div style="text-align: center;">
- &lt;img src="https://skarkalas.github.io/img/explorer.jpg" alt="Bio" style="max-width: 100%; height: auto;" />
+ &lt;img src="./img/explorer.jpg" alt="Bio" style="max-width: 100%; height: auto;" />
  &lt;p style="font-size: 0.8em;">
  &lt;a href="https://www.vecteezy.com/free-photos/explorer target="_blank" rel="noopener noreferrer">Explorer Stock photos by Vecteezy&lt;/a>
  &lt;/p>
 &lt;/div>
 &lt;p>I’ve been working at the intersection of industry and education since 1991. My academic journey has taken me through economics, business administration, computer science, and pedagogy - a mix that reflects my passion for both people and technology.&lt;/p>
 &lt;p>Over the years, I’ve worn many hats: researcher, lecturer, software architect, and CIO. I’ve worked across Europe in Universities and large multinational companies, leading teams and developing prototypes in R&amp;amp;D departments. In academia, I’ve taught a multitude of programming languages, as well as web and database technologies. I’m currently a Senior Lecturer in Software Engineering at the University of Derby (UK), where I also lead the Education and AI research group.&lt;/p></description></item><item><title>Education and AI</title><link>https://skarkalas.github.io/research/education-and-ai/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/research/education-and-ai/</guid><description>&lt;div style="text-align: center;">
- &lt;img src="https://skarkalas.github.io/img/education_and_ai.jpg" alt="Education and AI" style="max-width: 100%; height: auto;" />
+ &lt;img src="./img/education_and_ai.jpg" alt="Education and AI" style="max-width: 100%; height: auto;" />
  &lt;p style="font-size: 0.8em;">
  &lt;a href="https://www.vecteezy.com/free-photos/robot" target="_blank" rel="noopener noreferrer">Robot Stock photos by Vecteezy&lt;/a>
  &lt;/p>
@@ -14,7 +14,7 @@
 &lt;h2 id="about-the-group">About the Group&lt;/h2>
 &lt;p>&lt;strong>Education and AI&lt;/strong> is a research group I lead at the University of Derby. We specialise in cutting-edge and disruptive technologies in education. We enjoy experimenting with emerging technologies as well as research and design methodologies, and exploring how these can transform educational research and practice.&lt;/p>
 &lt;p>Our core values centre on democratising the use of technology in education and designing solutions that solve real problems and add meaningful value. As an applied university, we’re passionate about making sure our research outputs have practical applications and genuinely improve educational practice.&lt;/p></description></item><item><title>Recent Publications</title><link>https://skarkalas.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/publications/</guid><description>&lt;div style="text-align: center;">
- &lt;img src="https://skarkalas.github.io/img/publications.jpg" alt="Publications" style="max-width: 100%; height: auto;" />
+ &lt;img src="./img/publications.jpg" alt="Publications" style="max-width: 100%; height: auto;" />
  &lt;p style="font-size: 0.8em;">
  &lt;a href="https://www.vecteezy.com/free-photos/book target="_blank" rel="noopener noreferrer">Book Stock photos by Vecteezy&lt;/a>
  &lt;/p>
