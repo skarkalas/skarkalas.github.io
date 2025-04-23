@@ -1,97 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Welcome on Sokratis Karkalas</title>
-    <link>https://skarkalas.github.io/</link>
-    <description>Recent content in Welcome on Sokratis Karkalas</description>
-    <generator>Hugo -- 0.146.5</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://skarkalas.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://skarkalas.github.io/bio/</link>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://skarkalas.github.io/bio/</guid>
-      <description>&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;./img/explorer.jpg&#34; alt=&#34;Bio&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
-  &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
-    &lt;a href=&#34;https://www.vecteezy.com/free-photos/explorer target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Explorer Stock photos by Vecteezy&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;I’ve been working at the intersection of industry and education since 1991. My academic journey has taken me through economics, business administration, computer science, and pedagogy - a mix that reflects my passion for both people and technology.&lt;/p&gt;
-&lt;p&gt;Over the years, I’ve worn many hats: researcher, lecturer, software architect, and CIO. I’ve worked across Europe in Universities and large multinational companies, leading teams and developing prototypes in R&amp;amp;D departments. In academia, I’ve taught a multitude of programming languages, as well as web and database technologies. I’m currently a Senior Lecturer in Software Engineering at the University of Derby (UK), where I also lead the Education and AI research group.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Education and AI</title>
-      <link>https://skarkalas.github.io/research/education-and-ai/</link>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://skarkalas.github.io/research/education-and-ai/</guid>
-      <description>&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;./img/education_and_ai.jpg&#34; alt=&#34;Education and AI&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
-  &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
-    &lt;a href=&#34;https://www.vecteezy.com/free-photos/robot&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Robot Stock photos by Vecteezy&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;about-the-group&#34;&gt;About the Group&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Education and AI&lt;/strong&gt; is a research group I lead at the University of Derby. We specialise in cutting-edge and disruptive technologies in education. We enjoy experimenting with emerging technologies as well as research and design methodologies, and exploring how these can transform educational research and practice.&lt;/p&gt;
-&lt;p&gt;Our core values centre on democratising the use of technology in education and designing solutions that solve real problems and add meaningful value. As an applied university, we’re passionate about making sure our research outputs have practical applications and genuinely improve educational practice.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Recent Publications</title>
-      <link>https://skarkalas.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://skarkalas.github.io/publications/</guid>
-      <description>&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;./img/publications.jpg&#34; alt=&#34;Publications&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
-  &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
-    &lt;a href=&#34;https://www.vecteezy.com/free-photos/book target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Book Stock photos by Vecteezy&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;orcid-publications&#34;&gt;
-  &lt;ul id=&#34;pub-list&#34;&gt;Loading publications from ORCID...&lt;/ul&gt;
-&lt;/div&gt;
-&lt;script&gt;
-const orcidId = &#34;0009-0002-6008-6339&#34;;
-const pubList = document.getElementById(&#34;pub-list&#34;);
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome on Sokratis Karkalas</title><link>https://skarkalas.github.io/</link><description>Recent content in Welcome on Sokratis Karkalas</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skarkalas.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://skarkalas.github.io/bio/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/bio/</guid><description>&lt;div style="text-align: center;">
+&lt;img src="./img/explorer.jpg" alt="Bio" style="max-width: 100%; height: auto;" />
+&lt;p style="font-size: 0.8em;">
+&lt;a href="https://www.vecteezy.com/free-photos/explorer target="_blank" rel="noopener noreferrer">Explorer Stock photos by Vecteezy&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;p>I’ve been working at the intersection of industry and education since 1991. My academic journey has taken me through economics, business administration, computer science, and pedagogy - a mix that reflects my passion for both people and technology.&lt;/p>
+&lt;p>Over the years, I’ve worn many hats: researcher, lecturer, software architect, and CIO. I’ve worked across Europe in Universities and large multinational companies, leading teams and developing prototypes in R&amp;amp;D departments. In academia, I’ve taught a multitude of programming languages, as well as web and database technologies. I’m currently a Senior Lecturer in Software Engineering at the University of Derby (UK), where I also lead the Education and AI research group.&lt;/p></description></item><item><title>Education and AI</title><link>https://skarkalas.github.io/research/education-and-ai/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/research/education-and-ai/</guid><description>&lt;div style="text-align: center;">
+&lt;img src="./img/education_and_ai.jpg" alt="Education and AI" style="max-width: 100%; height: auto;" />
+&lt;p style="font-size: 0.8em;">
+&lt;a href="https://www.vecteezy.com/free-photos/robot" target="_blank" rel="noopener noreferrer">Robot Stock photos by Vecteezy&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;h2 id="about-the-group">About the Group&lt;/h2>
+&lt;p>&lt;strong>Education and AI&lt;/strong> is a research group I lead at the University of Derby. We specialise in cutting-edge and disruptive technologies in education. We enjoy experimenting with emerging technologies as well as research and design methodologies, and exploring how these can transform educational research and practice.&lt;/p>
+&lt;p>Our core values centre on democratising the use of technology in education and designing solutions that solve real problems and add meaningful value. As an applied university, we’re passionate about making sure our research outputs have practical applications and genuinely improve educational practice.&lt;/p></description></item><item><title>Recent Publications</title><link>https://skarkalas.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/publications/</guid><description>&lt;div style="text-align: center;">
+&lt;img src="./img/publications.jpg" alt="Publications" style="max-width: 100%; height: auto;" />
+&lt;p style="font-size: 0.8em;">
+&lt;a href="https://www.vecteezy.com/free-photos/book target="_blank" rel="noopener noreferrer">Book Stock photos by Vecteezy&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div id="orcid-publications">
+&lt;ul id="pub-list">Loading publications from ORCID...&lt;/ul>
+&lt;/div>
+&lt;script>
+const orcidId = "0009-0002-6008-6339";
+const pubList = document.getElementById("pub-list");
 fetch(`https://pub.orcid.org/v3.0/${orcidId}/works`, {
-    headers: {
-      Accept: &#34;application/json&#34;
-    }
-  })
-  .then(response =&gt; response.json())
-  .then(data =&gt; {
-    pubList.innerHTML = &#34;&#34;; // Clear loading message
-
-    const works = data.group
-      .map(group =&gt; group[&#34;work-summary&#34;][0])
-      .sort((a, b) =&gt; {
-        const da = a[&#34;publication-date&#34;];
-        const db = b[&#34;publication-date&#34;];
-        const yA = da?.year?.value || 0;
-        const yB = db?.year?.value || 0;
-        return yB - yA;
-      })
-      .slice(0, 15); // Show most recent 10
-
-    works.forEach(summary =&gt; {
-      const title = summary.title?.title?.value || &#34;Untitled&#34;;
-      const date = Object.values(summary[&#34;publication-date&#34;]).filter(element =&gt; element != null).map(element =&gt; element?.value).at(0);
-      const journal = summary[&#34;journal-title&#34;]?.value || &#34;&#34;;
-      const url = summary[&#34;external-ids&#34;][&#34;external-id&#34;]
-        ?.find(id =&gt; id[&#34;external-id-url&#34;])
-        ?.[&#34;external-id-url&#34;]?.value || &#34;#&#34;; // Fallback to &#34;#&#34; if URL is missing
-      const li = document.createElement(&#34;li&#34;);
-      li.innerHTML = `&lt;strong&gt;${title}&lt;/strong&gt; (${date}), ${journal} - &lt;a href=&#34;${url}&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Link&lt;/a&gt;`;
-      pubList.appendChild(li);
-    });
-  })
-  .catch(error =&gt; {
-    pubList.innerHTML = &#34;&lt;li&gt;Unable to load publications from ORCID at the moment.&lt;/li&gt;&#34;;
-    console.error(error);
-  });
-&lt;/script&gt;</description>
-    </item>
-  </channel>
-</rss>
+headers: {
+Accept: "application/json"
+}
+})
+.then(response => response.json())
+.then(data => {
+pubList.innerHTML = ""; // Clear loading message
+const works = data.group
+.map(group => group["work-summary"][0])
+.sort((a, b) => {
+const da = a["publication-date"];
+const db = b["publication-date"];
+const yA = da?.year?.value || 0;
+const yB = db?.year?.value || 0;
+return yB - yA;
+})
+.slice(0, 15); // Show most recent 10
+works.forEach(summary => {
+const title = summary.title?.title?.value || "Untitled";
+const date = Object.values(summary["publication-date"]).filter(element => element != null).map(element => element?.value).at(0);
+const journal = summary["journal-title"]?.value || "";
+const url = summary["external-ids"]["external-id"]
+?.find(id => id["external-id-url"])
+?.["external-id-url"]?.value || "#"; // Fallback to "#" if URL is missing
+const li = document.createElement("li");
+li.innerHTML = `&lt;strong>${title}&lt;/strong> (${date}), ${journal} - &lt;a href="${url}" target="_blank" rel="noopener noreferrer">Link&lt;/a>`;
+pubList.appendChild(li);
+});
+})
+.catch(error => {
+pubList.innerHTML = "&lt;li>Unable to load publications from ORCID at the moment.&lt;/li>";
+console.error(error);
+});
+&lt;/script></description></item></channel></rss>

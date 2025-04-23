@@ -1,27 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Research on Sokratis Karkalas</title>
-    <link>https://skarkalas.github.io/research/</link>
-    <description>Recent content in Research on Sokratis Karkalas</description>
-    <generator>Hugo -- 0.146.5</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://skarkalas.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Education and AI</title>
-      <link>https://skarkalas.github.io/research/education-and-ai/</link>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://skarkalas.github.io/research/education-and-ai/</guid>
-      <description>&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;../img/education_and_ai.jpg&#34; alt=&#34;Education and AI&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
-  &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
-    &lt;a href=&#34;https://www.vecteezy.com/free-photos/robot&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Robot Stock photos by Vecteezy&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;about-the-group&#34;&gt;About the Group&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Education and AI&lt;/strong&gt; is a research group I lead at the University of Derby. We specialise in cutting-edge and disruptive technologies in education. We enjoy experimenting with emerging technologies as well as research and design methodologies, and exploring how these can transform educational research and practice.&lt;/p&gt;
-&lt;p&gt;Our core values centre on democratising the use of technology in education and designing solutions that solve real problems and add meaningful value. As an applied university, we’re passionate about making sure our research outputs have practical applications and genuinely improve educational practice.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Research on Sokratis Karkalas</title><link>https://skarkalas.github.io/research/</link><description>Recent content in Research on Sokratis Karkalas</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skarkalas.github.io/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Education and AI</title><link>https://skarkalas.github.io/research/education-and-ai/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/research/education-and-ai/</guid><description>&lt;div style="text-align: center;">
+&lt;img src="../img/education_and_ai.jpg" alt="Education and AI" style="max-width: 100%; height: auto;" />
+&lt;p style="font-size: 0.8em;">
+&lt;a href="https://www.vecteezy.com/free-photos/robot" target="_blank" rel="noopener noreferrer">Robot Stock photos by Vecteezy&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;h2 id="about-the-group">About the Group&lt;/h2>
+&lt;p>&lt;strong>Education and AI&lt;/strong> is a research group I lead at the University of Derby. We specialise in cutting-edge and disruptive technologies in education. We enjoy experimenting with emerging technologies as well as research and design methodologies, and exploring how these can transform educational research and practice.&lt;/p>
+&lt;p>Our core values centre on democratising the use of technology in education and designing solutions that solve real problems and add meaningful value. As an applied university, we’re passionate about making sure our research outputs have practical applications and genuinely improve educational practice.&lt;/p></description></item></channel></rss>
