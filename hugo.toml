@@ -28,6 +28,8 @@ buildExpired = false
   disableScrollToTop = false
   hideFooter = false
   hideMenu = false
+  disableFingerprinting = true
+  enableSRI = false
 
   [params.assets]
   disableFingerprinting = true
