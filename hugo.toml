@@ -28,7 +28,10 @@ buildExpired = false
   disableScrollToTop = false
   hideFooter = false
   hideMenu = false
-  enableSRI = false
+
+  [params.assets]
+  disableFingerprinting = true
+  disableSRI = true
 
   [params.profileMode]
     enabled = true
@@ -58,7 +61,10 @@ buildExpired = false
   [[params.socialIcons]]
     name = "scholar"
     url = "https://scholar.google.com/citations?user=uiTF_e0AAAAJ"
-  
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [menu]
 
