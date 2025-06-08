@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome on Sokratis Karkalas</title>
-    <link>http://localhost:1313/</link>
+    <link>https://skarkalas.github.io/</link>
     <description>Recent content in Welcome on Sokratis Karkalas</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://skarkalas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://skarkalas.github.io/contact/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://skarkalas.github.io/contact/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Dr Sokratis Karkalas&lt;/strong&gt;&lt;br&gt;
 BSEd, CertEd, BEcon, MSCS, MBA, DCS&lt;br&gt;
 AMBCS, AFHEA&lt;br&gt;
@@ -44,13 +44,13 @@ United Kingdom&lt;/p&gt;
     </item>
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/software/</link>
+      <link>https://skarkalas.github.io/software/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/software/</guid>
+      <guid>https://skarkalas.github.io/software/</guid>
       <description>&lt;h3 id=&#34;software-projects&#34;&gt;Software Projects&lt;/h3&gt;
 &lt;div style=&#34;max-width: 700px; margin: 0 auto; padding: 1em; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 2em;&#34;&gt;
-  &lt;a href=&#34;./yabri&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
-    &lt;img src=&#34;./img/yabri.jpg&#34; alt=&#34;YaBRI&#34; style=&#34;width: 100%; height: auto; border-radius: 8px; margin-bottom: 1em;&#34; /&gt;
+  &lt;a href=&#34;https://skarkalas.github.io/yabri&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+    &lt;img src=&#34;https://skarkalas.github.io/img/yabri.jpg&#34; alt=&#34;YaBRI&#34; style=&#34;width: 100%; height: auto; border-radius: 8px; margin-bottom: 1em;&#34; /&gt;
     &lt;h2 style=&#34;margin: 0.2em 0;&#34;&gt;YaBRI - Yet another Browser REPL Interface&lt;/h2&gt;
     &lt;p style=&#34;margin: 0.5em 0 0 0; font-size: 1em; color: #555;&#34;&gt;
       YaBRI is an interactive JavaScript Read-Eval-Print Loop (REPL) component designed as a reusable and embeddable web component. It provides a powerful and isolated environment for executing JavaScript code directly within web applications.
@@ -58,11 +58,11 @@ United Kingdom&lt;/p&gt;
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/bio/</link>
+      <link>https://skarkalas.github.io/bio/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bio/</guid>
+      <guid>https://skarkalas.github.io/bio/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;./img/explorer.jpg&#34; alt=&#34;Bio&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
+  &lt;img src=&#34;https://skarkalas.github.io/img/explorer.jpg&#34; alt=&#34;Bio&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
   &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
     &lt;a href=&#34;https://www.vecteezy.com/free-photos/explorer target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Explorer Stock photos by Vecteezy&lt;/a&gt;
   &lt;/p&gt;
@@ -72,11 +72,11 @@ United Kingdom&lt;/p&gt;
     </item>
     <item>
       <title>Education and AI</title>
-      <link>http://localhost:1313/research/education-and-ai/</link>
+      <link>https://skarkalas.github.io/research/education-and-ai/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/education-and-ai/</guid>
+      <guid>https://skarkalas.github.io/research/education-and-ai/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;./img/education_and_ai.jpg&#34; alt=&#34;Education and AI&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
+  &lt;img src=&#34;https://skarkalas.github.io/img/education_and_ai.jpg&#34; alt=&#34;Education and AI&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
   &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
     &lt;a href=&#34;https://www.vecteezy.com/free-photos/robot&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Robot Stock photos by Vecteezy&lt;/a&gt;
   &lt;/p&gt;
@@ -87,11 +87,11 @@ United Kingdom&lt;/p&gt;
     </item>
     <item>
       <title>Recent Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://skarkalas.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://skarkalas.github.io/publications/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;./img/publications.jpg&#34; alt=&#34;Publications&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
+  &lt;img src=&#34;https://skarkalas.github.io/img/publications.jpg&#34; alt=&#34;Publications&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;
   &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
     &lt;a href=&#34;https://www.vecteezy.com/free-photos/book target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Book Stock photos by Vecteezy&lt;/a&gt;
   &lt;/p&gt;
