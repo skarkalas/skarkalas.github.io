@@ -38,4 +38,7 @@ United Kingdom
 - UCL: [utnvska@ucl.ac.uk](mailto:utnvska@ucl.ac.uk)  
 
 🔗 **University Profile**:  
-[https://www.derby.ac.uk/staff/sokratis-karkalas/](https://www.derby.ac.uk/staff/sokratis-karkalas/)
+<a href="https://www.derby.ac.uk/staff/sokratis-karkalas/" target="_blank" rel="noopener noreferrer">
+  https://www.derby.ac.uk/staff/sokratis-karkalas/
+</a>
+
