@@ -86,7 +86,7 @@ buildExpired = false
     identifier = "publications"
     name = "Publications"
     url = "/publications/"
-    weight = 40
+    weight = 5
 
 
 # Enable raw HTML in Markdown

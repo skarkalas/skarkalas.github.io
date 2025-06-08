@@ -6,7 +6,7 @@ menu:
   main:
     name: "Education & AI"
     url: "/research/education-and-ai/"
-    weight: 30
+    weight: 4
 ---
 
 <div style="text-align: center;">
