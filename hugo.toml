@@ -1,6 +1,6 @@
 baseURL = "https://skarkalas.github.io/"
-relativeURLs = true
-canonifyURLs = true
+relativeURLs = false
+canonifyURLs = false
 languageCode = "en-us"
 title = "Sokratis Karkalas"
 theme = "PaperMod"
