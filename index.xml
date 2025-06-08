@@ -27,20 +27,20 @@ United Kingdom&lt;/p>
 &lt;p>🔗 &lt;strong>University Profile&lt;/strong>:&lt;br>
 &lt;a href="https://www.derby.ac.uk/staff/sokratis-karkalas/">https://www.derby.ac.uk/staff/sokratis-karkalas/&lt;/a>&lt;/p></description></item><item><title>Software</title><link>https://skarkalas.github.io/software/</link><pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/software/</guid><description>&lt;h3 id="software-projects">Software Projects&lt;/h3>
 &lt;div style="max-width: 700px; margin: 0 auto; padding: 1em; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 2em;">
- &lt;a href="./yabri" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
- &lt;img src="./img/yabri.jpg" alt="YaBRI" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 1em;" />
+ &lt;a href="https://skarkalas.github.io/yabri" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+ &lt;img src="https://skarkalas.github.io/img/yabri.jpg" alt="YaBRI" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 1em;" />
  &lt;h2 style="margin: 0.2em 0;">YaBRI - Yet another Browser REPL Interface&lt;/h2>
  &lt;p style="margin: 0.5em 0 0 0; font-size: 1em; color: #555;">
  YaBRI is an interactive JavaScript Read-Eval-Print Loop (REPL) component designed as a reusable and embeddable web component. It provides a powerful and isolated environment for executing JavaScript code directly within web applications.
  &lt;/p></description></item><item><title>About Me</title><link>https://skarkalas.github.io/bio/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/bio/</guid><description>&lt;div style="text-align: center;">
- &lt;img src="./img/explorer.jpg" alt="Bio" style="max-width: 100%; height: auto;" />
+ &lt;img src="https://skarkalas.github.io/img/explorer.jpg" alt="Bio" style="max-width: 100%; height: auto;" />
  &lt;p style="font-size: 0.8em;">
  &lt;a href="https://www.vecteezy.com/free-photos/explorer target="_blank" rel="noopener noreferrer">Explorer Stock photos by Vecteezy&lt;/a>
  &lt;/p>
 &lt;/div>
 &lt;p>I’ve been working at the intersection of industry and education since 1991. My academic journey has taken me through economics, business administration, computer science, and pedagogy - a mix that reflects my passion for both people and technology.&lt;/p>
 &lt;p>Over the years, I’ve worn many hats: researcher, lecturer, software architect, and CIO. I’ve worked across Europe in Universities and large multinational companies, leading teams and developing prototypes in R&amp;amp;D departments. In academia, I’ve taught a multitude of programming languages, as well as web and database technologies. I’m currently a Senior Lecturer in Software Engineering at the University of Derby (UK), where I also lead the Education and AI research group.&lt;/p></description></item><item><title>Education and AI</title><link>https://skarkalas.github.io/research/education-and-ai/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/research/education-and-ai/</guid><description>&lt;div style="text-align: center;">
- &lt;img src="./img/education_and_ai.jpg" alt="Education and AI" style="max-width: 100%; height: auto;" />
+ &lt;img src="https://skarkalas.github.io/img/education_and_ai.jpg" alt="Education and AI" style="max-width: 100%; height: auto;" />
  &lt;p style="font-size: 0.8em;">
  &lt;a href="https://www.vecteezy.com/free-photos/robot" target="_blank" rel="noopener noreferrer">Robot Stock photos by Vecteezy&lt;/a>
  &lt;/p>
@@ -48,7 +48,7 @@ United Kingdom&lt;/p>
 &lt;h2 id="about-the-group">About the Group&lt;/h2>
 &lt;p>&lt;strong>Education and AI&lt;/strong> is a research group I lead at the University of Derby. We specialise in cutting-edge and disruptive technologies in education. We enjoy experimenting with emerging technologies as well as research and design methodologies, and exploring how these can transform educational research and practice.&lt;/p>
 &lt;p>Our core values centre on democratising the use of technology in education and designing solutions that solve real problems and add meaningful value. As an applied university, we’re passionate about making sure our research outputs have practical applications and genuinely improve educational practice.&lt;/p></description></item><item><title>Recent Publications</title><link>https://skarkalas.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/publications/</guid><description>&lt;div style="text-align: center;">
- &lt;img src="./img/publications.jpg" alt="Publications" style="max-width: 100%; height: auto;" />
+ &lt;img src="https://skarkalas.github.io/img/publications.jpg" alt="Publications" style="max-width: 100%; height: auto;" />
  &lt;p style="font-size: 0.8em;">
  &lt;a href="https://www.vecteezy.com/free-photos/book target="_blank" rel="noopener noreferrer">Book Stock photos by Vecteezy&lt;/a>
  &lt;/p>
