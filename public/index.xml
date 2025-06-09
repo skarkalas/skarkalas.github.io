@@ -51,11 +51,11 @@ My University Staff Page
       <guid>https://skarkalas.github.io/software/</guid>
       <description>&lt;h3 id=&#34;software-projects&#34;&gt;Software Projects&lt;/h3&gt;
 &lt;div style=&#34;max-width: 700px; margin: 0 auto; padding: 1em; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 2em;&#34;&gt;
-  &lt;a href=&#34;https://skarkalas.github.io/yabri&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
-    &lt;img src=&#34;https://skarkalas.github.io/img/yabri.jpg&#34; alt=&#34;YaBRI&#34; style=&#34;width: 100%; height: auto; border-radius: 8px; margin-bottom: 1em;&#34; /&gt;
-    &lt;h2 style=&#34;margin: 0.2em 0;&#34;&gt;YaBRI - Yet another Browser REPL Interface&lt;/h2&gt;
+  &lt;a href=&#34;https://skarkalas.github.io/minecraftcoding&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+    &lt;img src=&#34;https://skarkalas.github.io/img/minecraft.jpg&#34; alt=&#34;Minecraft Coding&#34; style=&#34;width: 100%; height: auto; border-radius: 8px; margin-bottom: 1em;&#34; /&gt;
+    &lt;h2 style=&#34;margin: 0.2em 0;&#34;&gt;Minecraft Coding&lt;/h2&gt;
     &lt;p style=&#34;margin: 0.5em 0 0 0; font-size: 1em; color: #555;&#34;&gt;
-      YaBRI is an interactive JavaScript Read-Eval-Print Loop (REPL) component designed as a reusable and embeddable web component. It provides a powerful and isolated environment for executing JavaScript code directly within web applications.
+      Minecraft Coding is a learning environment designed to help people develop computational and spatial thinking. Learners are given the option to play Minecraft using Blockly to build their environment. Minecraft is used as a creative playground for learners that want to experiment with automations and geometry in an exploratory 3D space.
     &lt;/p&gt;</description>
     </item>
     <item>
