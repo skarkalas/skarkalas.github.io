@@ -29,11 +29,11 @@ United Kingdom&lt;/p>
 My University Staff Page
 &lt;/a>&lt;/p></description></item><item><title>Software</title><link>https://skarkalas.github.io/software/</link><pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/software/</guid><description>&lt;h3 id="software-projects">Software Projects&lt;/h3>
 &lt;div style="max-width: 700px; margin: 0 auto; padding: 1em; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 2em;">
- &lt;a href="https://skarkalas.github.io/yabri" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
- &lt;img src="https://skarkalas.github.io/img/yabri.jpg" alt="YaBRI" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 1em;" />
- &lt;h2 style="margin: 0.2em 0;">YaBRI - Yet another Browser REPL Interface&lt;/h2>
+ &lt;a href="https://skarkalas.github.io/minecraftcoding" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+ &lt;img src="https://skarkalas.github.io/img/minecraft.jpg" alt="Minecraft Coding" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 1em;" />
+ &lt;h2 style="margin: 0.2em 0;">Minecraft Coding&lt;/h2>
  &lt;p style="margin: 0.5em 0 0 0; font-size: 1em; color: #555;">
- YaBRI is an interactive JavaScript Read-Eval-Print Loop (REPL) component designed as a reusable and embeddable web component. It provides a powerful and isolated environment for executing JavaScript code directly within web applications.
+ Minecraft Coding is a learning environment designed to help people develop computational and spatial thinking. Learners are given the option to play Minecraft using Blockly to build their environment. Minecraft is used as a creative playground for learners that want to experiment with automations and geometry in an exploratory 3D space.
  &lt;/p></description></item><item><title>About Me</title><link>https://skarkalas.github.io/bio/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://skarkalas.github.io/bio/</guid><description>&lt;div style="text-align: center;">
  &lt;img src="https://skarkalas.github.io/img/explorer.jpg" alt="Bio" style="max-width: 100%; height: auto;" />
  &lt;p style="font-size: 0.8em;">
