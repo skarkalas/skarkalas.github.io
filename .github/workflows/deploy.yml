@@ -28,4 +28,4 @@ jobs:
         github_token: ${{ secrets.GH_TOKEN }}
         publish_dir: ./public
         publish_branch: gh-pages
-        publish_repo: skarkalas/skarkalas.github.io
+        external_repository: skarkalas/skarkalas.github.io
